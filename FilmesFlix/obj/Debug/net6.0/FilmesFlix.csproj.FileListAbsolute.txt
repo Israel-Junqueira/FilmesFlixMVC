@@ -1,0 +1,8 @@
+C:\Users\etec\Desktop\israelFlix\FilmesFlixMVC\FilmesFlix\obj\Debug\net6.0\FilmesFlix.csproj.AssemblyReference.cache
+C:\Users\etec\Desktop\israelFlix\FilmesFlixMVC\FilmesFlix\obj\Debug\net6.0\FilmesFlix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etec\Desktop\israelFlix\FilmesFlixMVC\FilmesFlix\obj\Debug\net6.0\FilmesFlix.AssemblyInfoInputs.cache
+C:\Users\etec\Desktop\israelFlix\FilmesFlixMVC\FilmesFlix\obj\Debug\net6.0\FilmesFlix.AssemblyInfo.cs
+C:\Users\etec\Desktop\israelFlix\FilmesFlixMVC\FilmesFlix\obj\Debug\net6.0\FilmesFlix.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\israelFlix\FilmesFlixMVC\FilmesFlix\obj\Debug\net6.0\FilmesFlix.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\etec\Desktop\israelFlix\FilmesFlixMVC\FilmesFlix\obj\Debug\net6.0\FilmesFlix.RazorAssemblyInfo.cache
+C:\Users\etec\Desktop\israelFlix\FilmesFlixMVC\FilmesFlix\obj\Debug\net6.0\FilmesFlix.RazorAssemblyInfo.cs
