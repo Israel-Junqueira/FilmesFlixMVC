@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace GalloFlix.Models;
+namespace israelFlix.Models;
 [Table("MovieComment")]
 public class MovieComment
 {

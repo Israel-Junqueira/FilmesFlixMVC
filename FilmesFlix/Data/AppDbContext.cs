@@ -1,10 +1,10 @@
 
-using GalloFlix.Models;
+using israelFlix.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace GalloFlix.Data;
+namespace israelFlix.Data;
 public class AppDbContext : IdentityDbContext
 {
     public AppDbContext(DbContextOptions options) : base(options)

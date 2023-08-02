@@ -1,6 +1,6 @@
 
-using GalloFlix.Data;
-using GalloFlix.Models;
+using israelFlix.Data;
+using israelFlix.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 

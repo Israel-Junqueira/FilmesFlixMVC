@@ -1,8 +1,8 @@
-using GalloFlix.Models;
+using israelFlix.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
-namespace GalloFlix.Data;
+namespace israelFlix.Data;
 
 public class AppDbSeed
 {
