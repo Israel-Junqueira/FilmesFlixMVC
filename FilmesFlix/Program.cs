@@ -1,4 +1,4 @@
-
+using israelFlix.Models;
 using israelFlix.Data;
 using israelFlix.Models;
 using Microsoft.AspNetCore.Identity;

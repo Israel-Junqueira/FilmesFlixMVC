@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\etec\\Desktop\\israelFlix\\FilmesFlixMVC\\FilmesFlix\\FilmesFlix.csproj": {}
+    "C:\\Users\\etec\\Desktop\\Projeto\\FilmesFlixMVC\\FilmesFlix\\FilmesFlix.csproj": {}
   },
   "projects": {
-    "C:\\Users\\etec\\Desktop\\israelFlix\\FilmesFlixMVC\\FilmesFlix\\FilmesFlix.csproj": {
+    "C:\\Users\\etec\\Desktop\\Projeto\\FilmesFlixMVC\\FilmesFlix\\FilmesFlix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\etec\\Desktop\\israelFlix\\FilmesFlixMVC\\FilmesFlix\\FilmesFlix.csproj",
+        "projectUniqueName": "C:\\Users\\etec\\Desktop\\Projeto\\FilmesFlixMVC\\FilmesFlix\\FilmesFlix.csproj",
         "projectName": "FilmesFlix",
-        "projectPath": "C:\\Users\\etec\\Desktop\\israelFlix\\FilmesFlixMVC\\FilmesFlix\\FilmesFlix.csproj",
+        "projectPath": "C:\\Users\\etec\\Desktop\\Projeto\\FilmesFlixMVC\\FilmesFlix\\FilmesFlix.csproj",
         "packagesPath": "C:\\Users\\etec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\etec\\Desktop\\israelFlix\\FilmesFlixMVC\\FilmesFlix\\obj\\",
+        "outputPath": "C:\\Users\\etec\\Desktop\\Projeto\\FilmesFlixMVC\\FilmesFlix\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\etec\\AppData\\Roaming\\NuGet\\NuGet.Config",

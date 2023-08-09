@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9xbpz0/WMNpLuAUOT18+oOLXQiMZDOoL/XqpAlD585qV97g2a73XWTcjQgt6sCHp6LL8ePmaRuyomFxkXKRbvQ==",
+  "dgSpecHash": "7GUOJmHXdprzzrNmZo49PE9EkuIOhOrAuZ37+RmBd1HwAreGLpWGfUpx2XtZ7R3/TP3YYrEqmBsIDgOp5raTJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\etec\\Desktop\\israelFlix\\FilmesFlixMVC\\FilmesFlix\\FilmesFlix.csproj",
+  "projectFilePath": "C:\\Users\\etec\\Desktop\\Projeto\\FilmesFlixMVC\\FilmesFlix\\FilmesFlix.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\etec\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\etec\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.16\\microsoft.aspnetcore.cryptography.internal.6.0.16.nupkg.sha512",
