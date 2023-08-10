@@ -1,6 +1,7 @@
-using israelFlix.Models;
+
 using israelFlix.Data;
 using israelFlix.Models;
+using FilmesFlix.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -9,19 +10,21 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-// Objetos auxiliares de conexão
-string conn = builder.Configuration.GetConnectionString("Banco");
+// Objetos auxiliares de Conexão
+string conn = builder.Configuration.GetConnectionString("FilmesFlix");
 var version = ServerVersion.AutoDetect(conn);
 
-// Serviço de conexão com banco de dados
-builder.Services.AddDbContext<AppDbContext>( options =>
+// Serviço de Conexão com banco de dados
+builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseMySql(conn, version)
 );
 
-// Serviço de gestão de usuário - identity
+// Serviço de Gestão de Usuário - Identity
 builder.Services.AddIdentity<AppUser, IdentityRole>()
     .AddEntityFrameworkStores<AppDbContext>()
     .AddDefaultTokenProviders();
+
+builder.Services.AddTransient<IEmailSender, EmailSender>();
 
 var app = builder.Build();
 
@@ -29,6 +32,7 @@ var app = builder.Build();
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
+    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
 
